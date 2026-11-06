@@ -33,7 +33,7 @@ Uygulamayı kaldırdığınızda ya da Ayarlar → Uygulamalar → KilTak → De
 
 ## Çocuklar
 
-Uygulama çocuklara yönelik değildir ve kimseden kişisel veri toplamaz.
+Uygulama 13 yaşından küçük çocuklara yönelik değildir ve hiçbir yaştan kimseden kişisel veri toplamaz.
 
 ## Değişiklikler
 
@@ -74,7 +74,7 @@ You can revoke the calendar permission at any time in Settings → Apps → KilT
 
 ## Children
 
-The app is not directed at children and collects no personal data from anyone.
+The app is not directed at children under 13 and collects no personal data from anyone of any age.
 
 ## Changes
 
